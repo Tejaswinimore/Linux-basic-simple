@@ -1,4 +1,4 @@
-Linux File System 
+1. Linux File System 
 
 Basic Commands 
 1. pwd
